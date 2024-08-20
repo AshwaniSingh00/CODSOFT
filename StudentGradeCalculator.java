@@ -37,7 +37,6 @@ public class StudentGradeCalculator {
         }
 
         // Display Results
-        System.out.println("\n--- Results ---");
         System.out.println("Total Marks: " + totalMarks);
         System.out.println("Average Percentage: " + averagePercentage + "%");
         System.out.println("Grade: " + grade);
