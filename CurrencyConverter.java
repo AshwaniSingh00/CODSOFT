@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.HashMap;
 import java.util.Map;
 
-public class adhg {
+public class CurrencyConverter {
     
     // Predefined exchange rates (for simplicity)
     private static final Map<String, Double> exchangeRates = new HashMap<>();
